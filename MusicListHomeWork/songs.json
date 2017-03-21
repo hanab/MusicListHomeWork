@@ -1,0 +1,82 @@
+{
+    "songs" : [
+                {
+                 "title" : "Seasons in the sun",
+                 "bandName" : "West Life",
+                 "image" : "westlife",
+                 "song" :  "seasonsInTheSun",
+                 "imageURL": "http://1.bp.blogspot.com/-J6ASPEwGSSg/TmeSwoCF0EI/AAAAAAAAAA4/WFyZGKD-Hgg/s1600/westlifegrentermainsite.png",
+                                  },
+               
+                {
+                "title" : "Try",
+                "bandName" : "Pink",
+                "image" : "pink",
+                "song" :  "Try",
+                "imageURL": "http://thatgrapejuice.net/wp-content/uploads/2015/04/pink-that-grape-juice-2015-91910191-600x495.png",
+                },
+               
+                {
+                "title" : "Skinny Love",
+                "bandName" : "Birdy",
+                "image" : "birdy1",
+                "song" :  "skinnyLove",
+                "imageURL": "https://upload.wikimedia.org/wikipedia/en/4/45/Birdy_(Birdy_album).png",
+                },
+               
+                {
+                "title" : "Forever and Always",
+                "bandName" : "Shania Twain",
+                "image" : "shania1",
+                "song" :  "foreverandForAlways",
+                "imageURL": "http://www.wbwn.com/wp-content/uploads/sites/380/2015/05/Shania-Twain.png2_.png",
+                },
+               
+                {
+                "title" : "Beautiful",
+                "bandName" : "Eminem",
+                "image" : "eminem",
+                "song" :  "beautiful",
+                "imageURL": "http://lokcitymusic.com/wp-content/uploads/2015/07/wpid-eminem-white-privledge1.png",
+                },
+               
+                {
+                "title" : "Slow Dancing in a Burnning Room",
+                "bandName" : "John Mayer",
+                "image" : "johnMayer1",
+                "song" :  "slowDancing",
+                "imageURL": "http://frontrowtickets.com/Images/Performers/bd017885-9033-4330-b98c-243223112c2e_Thumb.png",
+                },
+               
+                {
+                "title" : "Stay",
+                "bandName" : "Rihanna",
+                "image" : "rihanna",
+                "song" :  "stay",
+                "imageURL": "http://now-here-this.timeout.com/wp-content/uploads/2012/11/Rihanna+PNG+1.png",
+                },
+                {
+                "title" : "I am not the only one",
+                "bandName" : "Sam Smith",
+                "image" : "sam",
+                "song" :  "ImNotTheOnlyOne",
+                "imageURL": "http://cdn.umg3.net/samsmithworld/img/themes/large_bg4_1.png",
+                },
+               
+                {
+                "title" : "All of me",
+                "bandName" : "John Legend",
+                "image" : "johnlegend",
+                "song" :  "allOfMe",
+                "imageURL": "http://4.bp.blogspot.com/-MUmxx85nAzg/Tup2rY7MV1I/AAAAAAAAIgk/FfuP1gkh96k/s1600/john2.png",
+                },
+               
+                {
+                "title" : "Falling for you",
+                "bandName" : "Colbie Caillat",
+                "image" : "colbie1",
+                "song" :  "fallingForYou",
+                "imageURL": "http://www.commandtalent.com/wp-content/uploads/2012/11/Colbie+Caillat+PNG.png",
+                }
+                ]
+                }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Xcode 7.0">
+    <entity name="RecentSong" representedClassName=".RecentSong" syncable="YES">
+        <attribute name="bandName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songFileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="RecentSong" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>

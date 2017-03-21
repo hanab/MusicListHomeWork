@@ -1,0 +1,6 @@
+framework module Pods_MusicListHomeWorkTests {
+  umbrella header "Pods-MusicListHomeWorkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
