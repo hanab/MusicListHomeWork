@@ -1,7 +1,7 @@
 # MusicListHomeWork
 
 ## Demo
-![Click here](https://media.giphy.com/media/3ohzdTeyDDmh7qRhi8/giphy.gif)
+![Click here](https://media.giphy.com/media/3o7bu85ybjmTBKvCus/giphy.gif)
 
 ##Introduction
 
