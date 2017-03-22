@@ -1,9 +1,11 @@
 # MusicListHomeWork
-##Songs List
-##Introduction
-The application shows a list of 100 songs and plays them when the song is clicked. It also shows a list of recently played songs. 
 
-<img src="http://hanabelete.com/ScreenShot.png" width="350" height="500">
+## Demo
+![Click here](https://media.giphy.com/media/3ohzdTeyDDmh7qRhi8/giphy.gif)
+
+##Introduction
+
+The application shows a list of 100 songs and plays them when the song is clicked. It also shows a list of recently played songs. 
 
 ## FrameWorkes Used
 
@@ -30,7 +32,8 @@ AVFoundation class was used to play songs which are stored locally in the projec
 
 XCTest class was used to write small unit tests for some of the functions in the project.
 
-## Further Development
-
-The exercise can be improved by loading music files from the network and adding more functionalities.
+## Instruction how to run it
+  * download the project from github
+  * open the xcode workspace file
+  * press run button after chossing a device or simulator in xcode
 
