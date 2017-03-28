@@ -103,11 +103,11 @@ class ListSongViewController: UIViewController,UITableViewDataSource, UITableVie
             cell.singerImageView.layer.cornerRadius = 5
             cell.bandName.text = songs[index].bandName
         } else {
-            let index = indexPath.row%10
+            //let index = indexPath.row%10
           //populate with recentlz played songs
             cell.titleLabel.text = songsDelegate.rp[indexPath.row].songTitle
             //cell.singerImageView.image = songs[index].singerPhoto
-             cell.singerImageView.downloadImage(songs[index].imageUrl)
+             cell.singerImageView.downloadImage(songsDelegate.rp[indexPath.row].imageUrl)
             //let downloadURL = NSURL(string:songsDelegate.rp[indexPath.row].imageUrl)!
             //cell.singerImageView.af_setImageWithURL(downloadURL)
             cell.singerImageView.layer.cornerRadius = 5

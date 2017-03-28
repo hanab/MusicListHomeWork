@@ -50,6 +50,12 @@ class SongDetailViewController: UIViewController {
             do {
                 try player = AVAudioPlayer(contentsOfURL: filePathUrl)
                 player.play()
+                let audioSession = AVAudioSession.sharedInstance()
+                do {
+                    try audioSession.setCategory(AVAudioSessionCategoryPlayback)
+                } catch {
+                    print("error")
+                }
             } catch {
                 print("error")
             }
